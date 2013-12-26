@@ -1,0 +1,119 @@
+{
+    "id": "ab0002",
+    "title": "Antibioticoterapia",
+    "topics": [
+        [
+            {
+                "id": "ATB_AULA1_PT1",
+                "img": 33
+            },
+            {
+                "id": "ATB_AULA1_PT2",
+                "img": 25
+            },
+            {
+                "id": "ATB_AULA1_PT3",
+                "img": 23
+            },
+            {
+                "id": "ATB_AULA1_PT4",
+                "img": 13
+            },
+            {
+                "id": "ATB_AULA1_PT5",
+                "img": 29
+            },
+            {
+                "id": "ATB_AULA1_PT6",
+                "img": 38
+            }
+        ],
+        [
+            {
+                "id": "ATB_AULA2_PT1",
+                "img": 19
+            },
+            {
+                "id": "ATB_AULA2_PT2",
+                "img": 24
+            },
+            {
+                "id": "ATB_AULA2_PT3",
+                "img": 16
+            },
+            {
+                "id": "ATB_AULA2_PT4",
+                "img": 31
+            },
+            {
+                "id": "ATB_AULA2_PT5",
+                "img": 31
+            },
+            {
+                "id": "ATB_AULA2_PT6",
+                "img": 39
+            }
+        ],
+        [
+            {
+                "id": "ATB_AULA3_PT1",
+                "img": 12
+            },
+            {
+                "id": "ATB_AULA3_PT2",
+                "img": 14
+            },
+            {
+                "id": "ATB_AULA3_PT3",
+                "img": 12
+            },
+            {
+                "id": "ATB_AULA3_PT4",
+                "img": 23
+            },
+            {
+                "id": "ATB_AULA3_PT5",
+                "img": 27
+            },
+            {
+                "id": "ATB_AULA3_PT6",
+                "img": 29
+            }
+        ],
+        [
+            {
+                "id": "ATB_AULA4_PT1",
+                "img": 20
+            },
+            {
+                "id": "ATB_AULA4_PT2",
+                "img": 21
+            },
+            {
+                "id": "ATB_AULA4_PT3",
+                "img": 17
+            },
+            {
+                "id": "ATB_AULA4_PT4",
+                "img": 18
+            },
+            {
+                "id": "ATB_AULA4_PT5",
+                "img": 23
+            },
+            {
+                "id": "ATB_AULA4_PT6",
+                "img": 38
+            },
+            {
+                "id": "ATB_AULA4_PT7",
+                "img": 10
+            },
+            {
+                "id": "ATB_AULA4_PT8",
+                "img": 14
+            }
+        ]
+    ]
+
+}

@@ -1,0 +1,167 @@
+{
+    "id": "im0004",
+    "title": "Inteligencia Medica",
+    "topics": [
+        [
+            {
+                "id": "INT_MEDICA_AULA1_PT1",
+                "img": 7
+            },
+            {
+                "id": "INT_MEDICA_AULA1_PT2",
+                "img": 2
+            }
+        ],
+        [
+            {
+                "id": "IM_AULA2",
+                "img": 14
+            }
+        ],
+        [
+            {
+                "id": "IM_AULA3",
+                "img": 24
+            }
+        ],
+        [
+            {
+                "id": "IM_AULA4",
+                "img": 23
+            }
+        ],
+        [
+            {
+                "id": "IM_AULA5_PT1",
+                "img": 30
+            },
+            {
+                "id": "IM_AULA5_PT2",
+                "img": 9
+            }
+        ],
+        [
+            {
+                "id": "IM_AULA6_PT1",
+                "img": 8
+            },
+            {
+                "id": "IM_AULA6_PT2",
+                "img": 26
+            }
+        ],
+        [
+            {
+                "id": "IM_AULA7_PT1",
+                "img": 3
+            },
+            {
+                "id": "IM_AULA7_PT2",
+                "img": 1
+            }
+        ],
+        [
+            {
+                "id": "IM_AULA8_PT1",
+                "img": 4
+            },
+            {
+                "id": "IM_AULA8_PT2",
+                "img": 4
+            },
+            {
+                "id": "IM_AULA8_PT3",
+                "img": 2
+            }
+        ],
+
+        [
+            {
+                "id": "IM_AULA9",
+                "img": 5
+            }
+        ],
+        [
+            {
+                "id": "IM_AULA10_PT1",
+                "img": 15
+            },
+            {
+                "id": "IM_AULA10_PT2",
+                "img": 9
+            }
+        ],
+        [
+            {
+                "id": "IM_AULA11_PT1",
+                "img": 10
+            },
+            {
+                "id": "IM_AULA11_PT2",
+                "img": 4
+            }
+        ],
+        [
+            {
+                "id": "IM_AULA12_PT1",
+                "img": 3
+            },
+            {
+                "id": "IM_AULA12_PT2",
+                "img": 6
+            }
+        ],
+        [
+            {
+                "id": "IM_AULA13_PT1",
+                "img": 5
+            },
+            {
+                "id": "IM_AULA13_PT2",
+                "img": 8
+            },
+            {
+                "id": "IM_AULA13_PT3",
+                "img": 4
+            }
+        ],
+        [
+            {
+                "id": "IM_AULA14_PT1",
+                "img": 5
+            },
+            {
+                "id": "IM_AULA14_PT2",
+                "img": 22
+            }
+        ],
+        [
+            {
+                "id": "IM_AULA15",
+                "img": 10
+            }
+        ],
+
+        [
+            {
+                "id": "IM_AULA16_PT1",
+                "img": 13
+            },
+            {
+                "id": "IM_AULA16_PT2",
+                "img": 6
+            }
+        ],
+
+        [
+            {
+                "id": "IM_AULA17_PT1",
+                "img": 20
+            },
+            {
+                "id": "IM_AULA17_PT2",
+                "img": 22
+            }
+        ]
+    ]
+}
