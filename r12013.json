@@ -1,0 +1,1404 @@
+{
+    "id": "R12013",
+    "title": "SJT Educacao Medica",
+    "topics": [
+        [
+            {
+                "id": "PEDIATRIA_AULA1_PT1",
+                "img": 3
+            },
+            {
+                "id": "PEDIATRIA_AULA1_PT2",
+                "img": 1
+            },
+            {
+                "id": "PEDIATRIA_AULA1_PT3",
+                "img": 3
+            },
+            {
+                "id": "PEDIATRIA_AULA1_PT4",
+                "img": 2
+            },
+            {
+                "id": "PEDIATRIA_AULA1_PT5",
+                "img": 6
+            },
+            {
+                "id": "PEDIATRIA_AULA1_PT6",
+                "img": 1
+            },
+            {
+                "id": "PEDIATRIA_AULA1_PT7",
+                "img": 7
+            },
+            {
+                "id": "PEDIATRIA_AULA1_PT8",
+                "img": 2
+            },
+            {
+                "id": "PEDIATRIA_AULA1_PT9",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "NEFRO_AULA1_PT1",
+                "img": 1
+            },
+            {
+                "id": "NEFRO_AULA1_PT2",
+                "img": 3
+            },
+            {
+                "id": "NEFRO_AULA1_PT3",
+                "img": 2
+            },
+            {
+                "id": "NEFRO_AULA1_PT4",
+                "img": 2
+            },
+            {
+                "id": "NEFRO_AULA1_PT5",
+                "img": 3
+            },
+            {
+                "id": "NEFRO_AULA1_PT6",
+                "img": 4
+            }
+        ],
+
+        [
+            {
+                "id": "PEDIATRIA_AULA2_PT1",
+                "img": 0
+            },
+            {
+                "id": "PEDIATRIA_AULA2_PT2",
+                "img": 0
+            },
+            {
+                "id": "PEDIATRIA_AULA2_PT3",
+                "img": 0
+            },
+            {
+                "id": "PEDIATRIA_AULA2_PT4",
+                "img": 0
+            },
+            {
+                "id": "PEDIATRIA_AULA2_PT5",
+                "img": 4
+            }
+        ],
+
+        [
+            {
+                "id": "CIRURGIA_GERAL_AULA1_PT1",
+                "img": 1
+            },
+            {
+                "id": "CIRURGIA_GERAL_AULA1_PT2",
+                "img": 1
+            },
+            {
+                "id": "CIRURGIA_GERAL_AULA1_PT3",
+                "img": 8
+            },
+            {
+                "id": "CIRURGIA_GERAL_AULA1_PT4",
+                "img": 1
+            },
+            {
+                "id": "CIRURGIA_GERAL_AULA1_PT5",
+                "img": 2
+            },
+            {
+                "id": "CIRURGIA_GERAL_AULA1_PT6",
+                "img": 6
+            },
+            {
+                "id": "CIRURGIA_GERAL_AULA1_PT7",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "NEFROLOGIA_AULA2_PT1",
+                "img": 1
+            },
+            {
+                "id": "NEFROLOGIA_AULA2_PT2",
+                "img": 2
+            },
+            {
+                "id": "NEFROLOGIA_AULA2_PT3",
+                "img": 1
+            },
+            {
+                "id": "NEFROLOGIA_AULA2_PT4",
+                "img": 1
+            },
+            {
+                "id": "NEFROLOGIA_AULA2_PT5",
+                "img": 2
+            }
+        ],
+
+        [
+            {
+                "id": "NEFRO_AULA3_PT1",
+                "img": 1
+            },
+            {
+                "id": "NEFRO_AULA3_PT2",
+                "img": 3
+            },
+            {
+                "id": "NEFRO_AULA3_PT3",
+                "img": 8
+            },
+            {
+                "id": "NEFRO_AULA3_PT4",
+                "img": 3
+            },
+            {
+                "id": "NEFRO_AULA3_PT5",
+                "img": 5
+            }
+        ],
+
+        [
+            {
+                "id": "CIR_GER_AULA2_PT1",
+                "img": 1
+            },
+            {
+                "id": "CIR_GER_AULA2_PT2",
+                "img": 2
+            },
+            {
+                "id": "CIR_GER_AULA2_PT3",
+                "img": 1
+            },
+            {
+                "id": "CIR_GER_AULA2_PT4",
+                "img": 2
+            },
+            {
+                "id": "CIR_GER_AULA2_PT5",
+                "img": 2
+            },
+            {
+                "id": "CIR_GER_AULA2_PT6",
+                "img": 2
+            }
+        ],
+
+        [
+            {
+                "id": "PNEUMO_AULA1_PT1",
+                "img": 0
+            },
+            {
+                "id": "PNEUMO_AULA1_PT2",
+                "img": 1
+            },
+            {
+                "id": "PNEUMO_AULA1_PT3",
+                "img": 1
+            },
+            {
+                "id": "PNEUMO_AULA1_PT4",
+                "img": 2
+            },
+            {
+                "id": "PNEUMO_AULA1_PT5",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "CIR_GER_AULA3_PT1",
+                "img": 0
+            },
+            {
+                "id": "CIR_GER_AULA3_PT2",
+                "img": 3
+            },
+            {
+                "id": "CIR_GER_AULA3_PT3",
+                "img": 1
+            },
+            {
+                "id": "CIR_GER_AULA3_PT4",
+                "img": 0
+            },
+            {
+                "id": "CIR_GER_AULA3_PT5",
+                "img": 0
+            },
+            {
+                "id": "CIR_GER_AULA3_PT6",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "OBSTETRÍCIA_AULA1_PT1",
+                "img": 1
+            },
+            {
+                "id": "OBSTETRÍCIA_AULA1_PT2",
+                "img": 1
+            },
+            {
+                "id": "OBSTETRÍCIA_AULA1_PT3",
+                "img": 1
+            },
+            {
+                "id": "OBSTETRÍCIA_AULA1_PT4",
+                "img": 1
+            },
+            {
+                "id": "OBSTETRÍCIA_AULA1_PT5",
+                "img": 1
+            },
+            {
+                "id": "OBSTETRÍCIA_AULA1_PT6",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "GINECOLOGIA_AULA1_PT1",
+                "img": 1
+            },
+            {
+                "id": "GINECOLOGIA_AULA1_PT2",
+                "img": 0
+            },
+            {
+                "id": "GINECOLOGIA_AULA1_PT3",
+                "img": 0
+            },
+            {
+                "id": "GINECOLOGIA_AULA1_PT4",
+                "img": 0
+            },
+            {
+                "id": "GINECOLOGIA_AULA1_PT5",
+                "img": 0
+            },
+            {
+                "id": "GINECOLOGIA_AULA1_PT6",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "PNEUMO_AULA2_PT1",
+                "img": 2
+            },
+            {
+                "id": "PNEUMO_AULA2_PT2",
+                "img": 2
+            },
+            {
+                "id": "PNEUMO_AULA2_PT3",
+                "img": 1
+            },
+            {
+                "id": "PNEUMO_AULA2_PT4",
+                "img": 1
+            },
+            {
+                "id": "PNEUMO_AULA2_PT5",
+                "img": 0
+            }
+        ],
+
+        [
+            {
+                "id": "CIR_GER_AULA4_PT1",
+                "img": 1
+            },
+            {
+                "id": "CIR_GER_AULA4_PT2",
+                "img": 1
+            },
+            {
+                "id": "CIR_GER_AULA4_PT3",
+                "img": 1
+            },
+            {
+                "id": "CIR_GER_AULA4_PT4",
+                "img": 2
+            }
+        ],
+
+        [
+            {
+                "id": "OBSTETRÍCIA_AULA2_PT1",
+                "img": 1
+            },
+            {
+                "id": "OBSTETRÍCIA_AULA2_PT2",
+                "img": 0
+            },
+            {
+                "id": "OBSTETRÍCIA_AULA2_PT3",
+                "img": 2
+            },
+            {
+                "id": "OBSTETRÍCIA_AULA2_PT4",
+                "img": 2
+            },
+            {
+                "id": "OBSTETRÍCIA_AULA2_PT5",
+                "img": 1
+            },
+            {
+                "id": "OBSTETRÍCIA_AULA2_PT6",
+                "img": 2
+            }
+        ],
+
+        [
+            {
+                "id": "CIR_PEDIATRICA_AULA1_PT1",
+                "img": 1
+            },
+            {
+                "id": "CIR_PEDIATRICA_AULA1_PT2",
+                "img": 1
+            },
+            {
+                "id": "CIR_PEDIATRICA_AULA1_PT3",
+                "img": 2
+            },
+            {
+                "id": "CIR_PEDIATRICA_AULA1_PT4",
+                "img": 1
+            },
+            {
+                "id": "CIR_PEDIATRICA_AULA1_PT5",
+                "img": 2
+            },
+            {
+                "id": "CIR_PEDIATRICA_AULA1_PT6",
+                "img": 1
+            },
+            {
+                "id": "CIR_PEDIATRICA_AULA1_PT7",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "CIR_PEDIATRICA_AULA2_PT1",
+                "img": 1
+            },
+            {
+                "id": "CIR_PEDIATRICA_AULA2_PT2",
+                "img": 1
+            },
+            {
+                "id": "CIR_PEDIATRICA_AULA2_PT3",
+                "img": 1
+            },
+            {
+                "id": "CIR_PEDIATRICA_AULA2_PT4",
+                "img": 2
+            },
+            {
+                "id": "CIR_PEDIATRICA_AULA2_PT5",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "MEDICINAPREV_AULA1_PT1",
+                "img": 6
+            },
+            {
+                "id": "MEDICINAPREV_AULA1_PT2",
+                "img": 1
+            },
+            {
+                "id": "MEDICINAPREV_AULA1_PT3",
+                "img": 1
+            },
+            {
+                "id": "MEDICINAPREV_AULA1_PT4",
+                "img": 1
+            },
+            {
+                "id": "MEDICINAPREV_AULA1_PT5",
+                "img": 7
+            },
+            {
+                "id": "MEDICINAPREV_AULA1_PT6",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "PNEUMO_AULA3_PT1",
+                "img": 2
+            },
+            {
+                "id": "PNEUMO_AULA3_PT2",
+                "img": 0
+            },
+            {
+                "id": "PNEUMO_AULA3_PT3",
+                "img": 3
+            },
+            {
+                "id": "PNEUMO_AULA3_PT4",
+                "img": 2
+            },
+            {
+                "id": "PNEUMO_AULA3_PT5",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "POLITRAUMA_AULA1_PT1",
+                "img": 9
+            },
+            {
+                "id": "POLITRAUMA_AULA1_PT2",
+                "img": 2
+            },
+            {
+                "id": "POLITRAUMA_AULA1_PT3",
+                "img": 3
+            },
+            {
+                "id": "POLITRAUMA_AULA1_PT4",
+                "img": 2
+            }
+        ],
+
+        [
+            {
+                "id": "GINECOLOGIA_AULA2_PT1",
+                "img": 2
+            },
+            {
+                "id": "GINECOLOGIA_AULA2_PT2",
+                "img": 2
+            },
+            {
+                "id": "GINECOLOGIA_AULA2_PT3",
+                "img": 3
+            },
+            {
+                "id": "GINECOLOGIA_AULA2_PT4",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "PNEUMO_AULA4_PT1",
+                "img": 1
+            },
+            {
+                "id": "PNEUMO_AULA4_PT2",
+                "img": 1
+            },
+            {
+                "id": "PNEUMO_AULA4_PT3",
+                "img": 1
+            },
+            {
+                "id": "PNEUMO_AULA4_PT4",
+                "img": 1
+            },
+            {
+                "id": "PNEUMO_AULA4_PT5",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "MEDPREV_AULA2_PT1",
+                "img": 2
+            },
+            {
+                "id": "MEDPREV_AULA2_PT2",
+                "img": 1
+            },
+            {
+                "id": "MEDPREV_AULA2_PT3",
+                "img": 3
+            },
+            {
+                "id": "MEDPREV_AULA2_PT4",
+                "img": 5
+            },
+            {
+                "id": "MEDPREV_AULA2_PT5",
+                "img": 1
+            },
+            {
+                "id": "MEDPREV_AULA2_PT6",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "HEMATOLOGIA_AULA1_PT1",
+                "img": 1
+            },
+            {
+                "id": "HEMATOLOGIA_AULA1_PT2",
+                "img": 1
+            },
+            {
+                "id": "HEMATOLOGIA_AULA1_PT3",
+                "img": 2
+            },
+            {
+                "id": "HEMATOLOGIA_AULA1_PT4",
+                "img": 1
+            },
+            {
+                "id": "HEMATOLOGIA_AULA1_PT5",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "OBSTETRÍCIA_AULA3_PT1",
+                "img": 2
+            },
+            {
+                "id": "OBSTETRÍCIA_AULA3_PT2",
+                "img": 2
+            },
+            {
+                "id": "OBSTETRÍCIA_AULA3_PT3",
+                "img": 3
+            },
+            {
+                "id": "OBSTETRÍCIA_AULA3_PT4",
+                "img": 3
+            }
+        ],
+
+        [
+            {
+                "id": "PNEUMO_AULA5_PT1",
+                "img": 1
+            },
+            {
+                "id": "PNEUMO_AULA5_PT2",
+                "img": 2
+            },
+            {
+                "id": "PNEUMO_AULA5_PT3",
+                "img": 1
+            },
+            {
+                "id": "PNEUMO_AULA5_PT4",
+                "img": 1
+            },
+            {
+                "id": "PNEUMO_AULA5_PT5",
+                "img": 2
+            },
+            {
+                "id": "PNEUMO_AULA5_PT6",
+                "img": 9
+            }
+        ],
+
+        [
+            {
+                "id": "CHOQUE_PT1",
+                "img": 3
+            },
+            {
+                "id": "CHOQUE_PT2",
+                "img": 2
+            },
+            {
+                "id": "CHOQUE_PT3",
+                "img": 3
+            },
+            {
+                "id": "CHOQUE_PT4",
+                "img": 3
+            },
+            {
+                "id": "CHOQUE_PT5",
+                "img": 4
+            }
+        ],
+
+        [
+            {
+                "id": "MEDPREV_AULA3_PT1",
+                "img": 1
+            },
+            {
+                "id": "MEDPREV_AULA3_PT2",
+                "img": 1
+            },
+            {
+                "id": "MEDPREV_AULA3_PT3",
+                "img": 6
+            },
+            {
+                "id": "MEDPREV_AULA3_PT4",
+                "img": 1
+            },
+            {
+                "id": "MEDPREV_AULA3_PT5",
+                "img": 9
+            },
+            {
+                "id": "MEDPREV_AULA3_PT6",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "POLITRAUMA_AULA2_PT1",
+                "img": 1
+            },
+            {
+                "id": "POLITRAUMA_AULA2_PT2",
+                "img": 2
+            },
+            {
+                "id": "POLITRAUMA_AULA2_PT3",
+                "img": 4
+            },
+            {
+                "id": "POLITRAUMA_AULA2_PT4",
+                "img": 3
+            }
+        ],
+
+        [
+            {
+                "id": "GINECOLOGIA_AULA3_PT1",
+                "img": 0
+            },
+            {
+                "id": "GINECOLOGIA_AULA3_PT2",
+                "img": 0
+            },
+            {
+                "id": "GINECOLOGIA_AULA3_PT3",
+                "img": 1
+            },
+            {
+                "id": "GINECOLOGIA_AULA3_PT4",
+                "img": 1
+            },
+            {
+                "id": "GINECOLOGIA_AULA3_PT5",
+                "img": 1
+            },
+            {
+                "id": "GINECOLOGIA_AULA3_PT6",
+                "img": 0
+            }
+        ],
+
+        [
+            {
+                "id": "POLITRAUMA_AULA3_PT1",
+                "img": 3
+            },
+            {
+                "id": "POLITRAUMA_AULA3_PT2",
+                "img": 2
+            },
+            {
+                "id": "POLITRAUMA_AULA3_PT3",
+                "img": 1
+            },
+            {
+                "id": "POLITRAUMA_AULA3_PT4",
+                "img": 1
+            },
+            {
+                "id": "POLITRAUMA_AULA3_PT5",
+                "img": 3
+            }
+        ],
+
+        [
+            {
+                "id": "NEFRO_AULA4_PT1",
+                "img": 1
+            },
+            {
+                "id": "NEFRO_AULA4_PT2",
+                "img": 9
+            },
+            {
+                "id": "NEFRO_AULA4_PT3",
+                "img": 1
+            },
+            {
+                "id": "NEFRO_AULA4_PT4",
+                "img": 1
+            },
+            {
+                "id": "NEFRO_AULA4_PT5",
+                "img": 2
+            },
+            {
+                "id": "NEFRO_AULA4_PT6",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "POLITRAUMA_AULA4_PT1",
+                "img": 1
+            },
+            {
+                "id": "POLITRAUMA_AULA4_PT2",
+                "img": 2
+            },
+            {
+                "id": "POLITRAUMA_AULA4_PT3",
+                "img": 1
+            },
+            {
+                "id": "POLITRAUMA_AULA4_PT4",
+                "img": 2
+            },
+            {
+                "id": "POLITRAUMA_AULA4_PT5",
+                "img": 2
+            }
+        ],
+
+        [
+            {
+                "id": "OBSTETRICIA_AULA4_PT1",
+                "img": 1
+            },
+            {
+                "id": "OBSTETRICIA_AULA4_PT2",
+                "img": 1
+            },
+            {
+                "id": "OBSTETRICIA_AULA4_PT3",
+                "img": 1
+            },
+            {
+                "id": "OBSTETRICIA_AULA4_PT4",
+                "img": 1
+            },
+            {
+                "id": "OBSTETRICIA_AULA4_PT5",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "HEMATOLOGIA_AULA2_PT1",
+                "img": 0
+            },
+            {
+                "id": "HEMATOLOGIA_AULA2_PT2",
+                "img": 1
+            },
+            {
+                "id": "HEMATOLOGIA_AULA2_PT3",
+                "img": 1
+            },
+            {
+                "id": "HEMATOLOGIA_AULA2_PT4",
+                "img": 1
+            },
+            {
+                "id": "HEMATOLOGIA_AULA2_PT5",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "PEDIATRIA_AULA3_PT1",
+                "img": 1
+            },
+            {
+                "id": "PEDIATRIA_AULA3_PT2",
+                "img": 1
+            },
+            {
+                "id": "PEDIATRIA_AULA3_PT3",
+                "img": 4
+            },
+            {
+                "id": "PEDIATRIA_AULA3_PT4",
+                "img": 1
+            },
+            {
+                "id": "PEDIATRIA_AULA3_PT5",
+                "img": 2
+            }
+        ],
+
+        [
+            {
+                "id": "OBSTETRICIA_AULA5_PT1",
+                "img": 3
+            },
+            {
+                "id": "OBSTETRICIA_AULA5_PT2",
+                "img": 2
+            },
+            {
+                "id": "OBSTETRICIA_AULA5_PT3",
+                "img": 3
+            },
+            {
+                "id": "OBSTETRICIA_AULA5_PT4",
+                "img": 2
+            }
+        ],
+
+        [
+            {
+                "id": "NEFRO_AULA5_PT1",
+                "img": 4
+            },
+            {
+                "id": "NEFRO_AULA5_PT2",
+                "img": 3
+            },
+            {
+                "id": "NEFRO_AULA5_PT3",
+                "img": 2
+            },
+            {
+                "id": "NEFRO_AULA5_PT4",
+                "img": 2
+            }
+        ],
+
+        [
+            {
+                "id": "NEFRO_AULA6_PT1",
+                "img": 2
+            },
+            {
+                "id": "NEFRO_AULA6_PT2",
+                "img": 3
+            },
+            {
+                "id": "NEFRO_AULA6_PT3",
+                "img": 1
+            },
+            {
+                "id": "NEFRO_AULA6_PT4",
+                "img": 2
+            }
+        ],
+
+        [
+            {
+                "id": "HEMATOLOGIA_AULA3_PT1",
+                "img": 1
+            },
+            {
+                "id": "HEMATOLOGIA_AULA3_PT2",
+                "img": 2
+            },
+            {
+                "id": "HEMATOLOGIA_AULA3_PT3",
+                "img": 1
+            },
+            {
+                "id": "HEMATOLOGIA_AULA3_PT4",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "GINECO_AULA4_PT1",
+                "img": 1
+            },
+            {
+                "id": "GINECO_AULA4_PT2",
+                "img": 1
+            },
+            {
+                "id": "GINECO_AULA4_PT3",
+                "img": 1
+            },
+            {
+                "id": "GINECO_AULA4_PT4",
+                "img": 1
+            },
+            {
+                "id": "GINECO_AULA4_PT5",
+                "img": 9
+            },
+            {
+                "id": "GINECO_AULA4_PT6",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "PEDIATRIA_AULA4_PT1",
+                "img": 1
+            },
+            {
+                "id": "PEDIATRIA_AULA4_PT2",
+                "img": 3
+            },
+            {
+                "id": "PEDIATRIA_AULA4_PT3",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "NEONATO_AULA1_PT1",
+                "img": 3
+            },
+            {
+                "id": "NEONATO_AULA1_PT2",
+                "img": 2
+            },
+            {
+                "id": "NEONATO_AULA1_PT3",
+                "img": 4
+            },
+            {
+                "id": "NEONATO_AULA1_PT4",
+                "img": 4
+            },
+            {
+                "id": "NEONATO_AULA1_PT5",
+                "img": 4
+            }
+        ],
+
+        [
+            {
+                "id": "HEMATO_AULA4_PT1",
+                "img": 1
+            },
+            {
+                "id": "HEMATO_AULA4_PT2",
+                "img": 2
+            },
+            {
+                "id": "HEMATO_AULA4_PT3",
+                "img": 3
+            },
+            {
+                "id": "HEMATO_AULA4_PT4",
+                "img": 2
+            },
+            {
+                "id": "HEMATO_AULA4_PT5",
+                "img": 3
+            }
+        ],
+
+        [
+            {
+                "id": "POLITRAUMA_AULA5_PT1",
+                "img": 2
+            },
+            {
+                "id": "POLITRAUMA_AULA5_PT2",
+                "img": 2
+            },
+            {
+                "id": "POLITRAUMA_AULA5_PT3",
+                "img": 2
+            }
+        ],
+
+        [
+            {
+                "id": "REV_NEFRO",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "GINECO_AULA5_PT1",
+                "img": 1
+            },
+            {
+                "id": "GINECO_AULA5_PT2",
+                "img": 3
+            },
+            {
+                "id": "GINECO_AULA5_PT3",
+                "img": 2
+            },
+            {
+                "id": "GINECO_AULA5_PT4",
+                "img": 2
+            }
+        ],
+
+        [
+            {
+                "id": "NEFRO_AULA7_PT1",
+                "img": 2
+            },
+            {
+                "id": "NEFRO_AULA7_PT2",
+                "img": 3
+            },
+            {
+                "id": "NEFRO_AULA7_PT3",
+                "img": 2
+            },
+            {
+                "id": "NEFRO_AULA7_PT4",
+                "img": 3
+            },
+            {
+                "id": "NEFRO_AULA7_PT5",
+                "img": 2
+            }
+        ],
+
+        [
+            {
+                "id": "UROLOGIA_AULA1_PT1",
+                "img": 3
+            },
+            {
+                "id": "UROLOGIA_AULA1_PT2",
+                "img": 3
+            },
+            {
+                "id": "UROLOGIA_AULA1_PT3",
+                "img": 2
+            },
+            {
+                "id": "UROLOGIA_AULA1_PT4",
+                "img": 2
+            }
+        ],
+
+        [
+            {
+                "id": "CARDIO_AULA1_PT1",
+                "img": 2
+            },
+            {
+                "id": "CARDIO_AULA1_PT2",
+                "img": 6
+            },
+            {
+                "id": "CARDIO_AULA1_PT3",
+                "img": 1
+            },
+            {
+                "id": "CARDIO_AULA1_PT4",
+                "img": 2
+            }
+        ],
+
+        [
+            {
+                "id": "HEMATO_AULA5_PT1",
+                "img": 1
+            },
+            {
+                "id": "HEMATO_AULA5_PT2",
+                "img": 2
+            },
+            {
+                "id": "HEMATO_AULA5_PT3",
+                "img": 1
+            },
+            {
+                "id": "HEMATO_AULA5_PT4",
+                "img": 1
+            },
+            {
+                "id": "HEMATO_AULA5_PT5",
+                "img": 2
+            }
+        ],
+
+        [
+            {
+                "id": "NEONATO_AULA2_PT1",
+                "img": 4
+            },
+            {
+                "id": "NEONATO_AULA2_PT2",
+                "img": 4
+            },
+            {
+                "id": "NEONATO_AULA2_PT3",
+                "img": 1
+            },
+            {
+                "id": "NEONATO_AULA2_PT4",
+                "img": 2
+            },
+            {
+                "id": "NEONATO_AULA2_PT5",
+                "img": 7
+            }
+        ],
+
+        [
+            {
+                "id": "CARDIO_AULA2_PT1",
+                "img": 2
+            },
+            {
+                "id": "CARDIO_AULA2_PT2",
+                "img": 3
+            },
+            {
+                "id": "CARDIO_AULA2_PT3",
+                "img": 2
+            },
+            {
+                "id": "CARDIO_AULA2_PT4",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "CARDIO_AULA3_PT1",
+                "img": 0
+            },
+            {
+                "id": "CARDIO_AULA3_PT2",
+                "img": 0
+            },
+            {
+                "id": "CARDIO_AULA3_PT3",
+                "img": 2
+            },
+            {
+                "id": "CARDIO_AULA3_PT4",
+                "img": 4
+            }
+        ],
+
+        [
+            {
+                "id": "UROLOGIA_AULA2_PT1",
+                "img": 2
+            },
+            {
+                "id": "UROLOGIA_AULA2_PT2",
+                "img": 2
+            },
+            {
+                "id": "UROLOGIA_AULA2_PT3",
+                "img": 1
+            },
+            {
+                "id": "UROLOGIA_AULA2_PT4",
+                "img": 1
+            },
+            {
+                "id": "UROLOGIA_AULA2_PT5",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "PSIQUIATRIA_AULA1_PT1",
+                "img": 2
+            },
+            {
+                "id": "PSIQUIATRIA_AULA1_PT2",
+                "img": 1
+            },
+            {
+                "id": "PSIQUIATRIA_AULA1_PT3",
+                "img": 3
+            },
+            {
+                "id": "PSIQUIATRIA_AULA1_PT4",
+                "img": 2
+            },
+            {
+                "id": "PSIQUIATRIA_AULA1_PT5",
+                "img": 1
+            }
+        ],
+
+        [
+            {
+                "id": "INFECTO_AULA1_PT1",
+                "img": 2
+            },
+            {
+                "id": "INFECTO_AULA1_PT2",
+                "img": 1
+            },
+            {
+                "id": "INFECTO_AULA1_PT3",
+                "img": 1
+            },
+            {
+                "id": "INFECTO_AULA1_PT4",
+                "img": 2
+            },
+            {
+                "id": "INFECTO_AULA1_PT5",
+                "img": 2
+            },
+            {
+                "id": "INFECTO_AULA1_PT6",
+                "img": 4
+            }
+        ],
+
+        [
+            {
+                "id": "CARDIO_AULA4_PT1",
+                "img": 3
+            },
+            {
+                "id": "CARDIO_AULA4_PT2",
+                "img": 2
+            },
+            {
+                "id": "CARDIO_AULA4_PT3",
+                "img": 4
+            },
+            {
+                "id": "CARDIO_AULA4_PT4",
+                "img": 5
+            }
+        ],
+
+        [
+            {
+                "id": "ENDOCRINOLOGIA_AULA1_PT1",
+                "img": 2
+            },
+            {
+                "id": "ENDOCRINOLOGIA_AULA1_PT2",
+                "img": 1
+            },
+            {
+                "id": "ENDOCRINOLOGIA_AULA1_PT3",
+                "img": 3
+            },
+            {
+                "id": "ENDOCRINOLOGIA_AULA1_PT4",
+                "img": 4
+            },
+            {
+                "id": "ENDOCRINOLOGIA_AULA1_PT5",
+                "img": 3
+            }
+        ],
+
+        [
+            {
+                "id": "PEDIATRIA_AULA5_PT1",
+                "img": 9
+            },
+            {
+                "id": "PEDIATRIA_AULA5_PT2",
+                "img": 1
+            },
+            {
+                "id": "PEDIATRIA_AULA5_PT3",
+                "img": 1
+            },
+            {
+                "id": "PEDIATRIA_AULA5_PT4",
+                "img": 2
+            }
+        ],
+
+        [
+            {
+                "id": "ENDOCRINO_AULA2_PT1",
+                "img": 1
+            },
+            {
+                "id": "ENDOCRINO_AULA2_PT2",
+                "img": 1
+            },
+            {
+                "id": "ENDOCRINO_AULA2_PT3",
+                "img": 2
+            },
+            {
+                "id": "ENDOCRINO_AULA2_PT4",
+                "img": 2
+            },
+            {
+                "id": "ENDOCRINO_AULA2_PT5",
+                "img": 1
+            },
+            {
+                "id": "ENDOCRINO_AULA2_PT6",
+                "img": 4
+            },
+            {
+                "id": "ENDOCRINO_AULA2_PT7",
+                "img": 5
+            }
+        ],
+
+        [
+            {
+                "id": "URO_AULA3_PT1",
+                "img": 3
+            },
+            {
+                "id": "URO_AULA3_PT2",
+                "img": 3
+            },
+            {
+                "id": "URO_AULA3_PT3",
+                "img": 4
+            },
+            {
+                "id": "URO_AULA3_PT4",
+                "img": 3
+            }
+        ]
+    ]
+}
