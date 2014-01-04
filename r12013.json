@@ -247,27 +247,27 @@
 
         [
             {
-                "id": "OBSTETRÍCIA_AULA1_PT1",
+                "id": "OBSTETRICIA_AULA1_PT1",
                 "img": 1
             },
             {
-                "id": "OBSTETRÍCIA_AULA1_PT2",
+                "id": "OBSTETRICIA_AULA1_PT2",
                 "img": 1
             },
             {
-                "id": "OBSTETRÍCIA_AULA1_PT3",
+                "id": "OBSTETRICIA_AULA1_PT3",
                 "img": 1
             },
             {
-                "id": "OBSTETRÍCIA_AULA1_PT4",
+                "id": "OBSTETRICIA_AULA1_PT4",
                 "img": 1
             },
             {
-                "id": "OBSTETRÍCIA_AULA1_PT5",
+                "id": "OBSTETRICIA_AULA1_PT5",
                 "img": 1
             },
             {
-                "id": "OBSTETRÍCIA_AULA1_PT6",
+                "id": "OBSTETRICIA_AULA1_PT6",
                 "img": 1
             }
         ],
@@ -343,27 +343,27 @@
 
         [
             {
-                "id": "OBSTETRÍCIA_AULA2_PT1",
+                "id": "OBSTETRICIA_AULA2_PT1",
                 "img": 1
             },
             {
-                "id": "OBSTETRÍCIA_AULA2_PT2",
+                "id": "OBSTETRICIA_AULA2_PT2",
                 "img": 0
             },
             {
-                "id": "OBSTETRÍCIA_AULA2_PT3",
+                "id": "OBSTETRICIA_AULA2_PT3",
                 "img": 2
             },
             {
-                "id": "OBSTETRÍCIA_AULA2_PT4",
+                "id": "OBSTETRICIA_AULA2_PT4",
                 "img": 2
             },
             {
-                "id": "OBSTETRÍCIA_AULA2_PT5",
+                "id": "OBSTETRICIA_AULA2_PT5",
                 "img": 1
             },
             {
-                "id": "OBSTETRÍCIA_AULA2_PT6",
+                "id": "OBSTETRICIA_AULA2_PT6",
                 "img": 2
             }
         ],
@@ -585,19 +585,19 @@
 
         [
             {
-                "id": "OBSTETRÍCIA_AULA3_PT1",
+                "id": "OBSTETRICIA_AULA3_PT1",
                 "img": 2
             },
             {
-                "id": "OBSTETRÍCIA_AULA3_PT2",
+                "id": "OBSTETRICIA_AULA3_PT2",
                 "img": 2
             },
             {
-                "id": "OBSTETRÍCIA_AULA3_PT3",
+                "id": "OBSTETRICIA_AULA3_PT3",
                 "img": 3
             },
             {
-                "id": "OBSTETRÍCIA_AULA3_PT4",
+                "id": "OBSTETRICIA_AULA3_PT4",
                 "img": 3
             }
         ],
